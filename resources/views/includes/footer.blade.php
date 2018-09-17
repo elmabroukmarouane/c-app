@@ -1,0 +1,1 @@
+<footer class="footer"> &copy; 2017 - <?php $date = new DateTime(); echo $date->format("Y"); ?> Trad Project. <strong>Made By <a href="mailto:emo@mail.com">EMO</a></strong> </footer>
