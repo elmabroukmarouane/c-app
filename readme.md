@@ -19,11 +19,11 @@ A [Laravel](http://laravel.com/) and [JQuery](https://jquery.com/) application f
 
 Here is the link for Live demo [Live Demo](http://elmabroukmarouane.pw/c-app/)
 
-- Account :
-  
-Super Administrator : Email : [super_admin@mail.com](super_admin@mail.com) Password : 123456
+## Accounts :
 
-User : Email : [user@mail.com](user@mail.com) Password : 123456
+-   Super Administrator : Email : [super_admin@mail.com](super_admin@mail.com) Password : 123456
+
+-   User : Email : [user@mail.com](user@mail.com) Password : 123456
 
 ## Contact :
 
